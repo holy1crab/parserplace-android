@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParserPlace</string>
+    <string name="com_submit">Submit</string>
+    <string name="com_in_stock">In stock</string>
+    <string name="com_out_of_stock">Out of stock</string>
+    <string name="bottom_nav_subscriptions">Subscriptions</string>
+    <string name="bottom_nav_account">Account</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="subscription_add_button">Enter the link</string>
+    <string name="subscription_add_resolve_parameters">Please, resolve the following questions</string>
+    <string name="subscription_add_confirm">Create</string>
+</resources>
